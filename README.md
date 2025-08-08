@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building a chat app<br>🌱 I’m currently learning NEXT JS, socket.io<br>💬 Ask me about MERN, React, Sockett<br>📧 How to reach me vishak.r565@gmail.com
+🔭 I’m currently building a chat app<br>🌱 I’m currently learning NEXT JS, socket.io<br>💬 Ask me about MERN, React, Socket<br>📧 How to reach me vishak.r565@gmail.com
 
 
 # 💻 Tech Stack:
