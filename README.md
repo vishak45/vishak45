@@ -1,5 +1,4 @@
-# 💫 About Me:
-💬 Ask me about React, MERN, Socket<br>📧  How to reach me vishak.r565@gmail.com
+
 
 
 # 💻 Tech Stack:
