@@ -1,6 +1,6 @@
 ## Hey there, I'm Vishak 👋
 
-Naturally curious about how systems work under the hood — from network flow to distributed coordination.
+I'm Naturally curious about how systems work under the hood — from network flow to distributed coordination.
 
 I like building **architecture-first systems**: resilient backends, distributed pipelines, and real-time services.
 
