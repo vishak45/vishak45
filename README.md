@@ -8,7 +8,5 @@ Currently exploring **microservices architecture** and **scalable ML integration
 
 ---
 
-### 🔬 Exploring
-
-`Queue Orchestration` • `Scalable ML Pipelines`  
-`Message Queue Latency` • `Redis Lock Contention`
+## Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishak-r-130953257/)
