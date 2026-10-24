@@ -14,7 +14,6 @@
 </p>
 
 ### `developer.config.json`
-
 ```json
 {
   "developer": {
@@ -32,8 +31,9 @@
   "infrastructure": {
     "containers": ["Docker"],
     "messaging_and_cache": ["Redis"],
-    "web_servers": ["Nginx"],
-    "databases": ["PostgreSQL", "MongoDB"]
+    "web_servers": ["Nginx", "Apache"],
+    "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+    "cloud": ["AWS", "Vercel", "Render",]
   },
   "engineering_principles": [
     "Fault Isolation",
@@ -46,12 +46,17 @@
     "linkedin": "https://www.linkedin.com/in/vishak-r-130953257/"
   }
 }
+
 ```
 
 ### ⚙️ My Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,fastapi,redis,postgres,mongodb,docker,nginx&theme=dark" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,fastapi,redis,postgres,mongodb,mysql,docker,nginx,apache,aws&theme=dark" alt="Technology stack"/>
+</p>
+
+<p align="center">
+  <i>Building better systems.</i>
 </p>
 
 
