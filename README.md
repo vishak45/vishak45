@@ -54,6 +54,4 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,fastapi,redis,postgres,mongodb,docker,nginx&theme=dark" alt="Technology stack"/>
 </p>
 
-<p align="center">
-  <i>Building better systems, one commit at a time.</i>
-</p>
+
