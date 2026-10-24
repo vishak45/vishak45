@@ -1,9 +1,9 @@
 ## 📬 Connect With Me
 
-<p align="center">
+<div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishak-r-130953257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishak.r565@gmail.com)
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+systems%2C+not+just+features;Building+scalable+backends;Exploring+AI%2FML+integration;Turning+ideas+into+reliable+software" alt="Typing animation"/>
