@@ -30,6 +30,7 @@
   ],
   "reach_me": {
     "email": "vishak.r565@gmail.com",
-    "linkedin": "[https://www.linkedin.com/in/vishak-r-130953257/](https://www.linkedin.com/in/vishak-r-130953257/)"
+    "linkedin": "linkedin.com/in/vishak-r-130953257"
   }
 }
+```
