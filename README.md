@@ -52,7 +52,8 @@
 ### ⚙️ My Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,fastapi,redis,postgres,mongodb,mysql,docker,nginx,apache,aws&theme=dark" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,fastapi,redis,postgres,mongodb,mysql,docker,nginx,aws&theme=dark" alt="Technology stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="48" alt="Apache"/>
 </p>
 
 <p align="center">
