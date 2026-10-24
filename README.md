@@ -33,7 +33,7 @@
     "messaging_and_cache": ["Redis"],
     "web_servers": ["Nginx", "Apache"],
     "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-    "cloud": ["AWS", "Vercel", "Render",]
+    "cloud": ["AWS", "Vercel", "Render"]
   },
   "engineering_principles": [
     "Fault Isolation",
